@@ -1,3 +1,3 @@
-import stremlit as st
+import streamlit as st
 
 st.title("나의 첫번째 앱")
